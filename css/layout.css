@@ -49,6 +49,10 @@ h2.milk_text {
   margin: auto;
 }
 
+section .shadow.second {
+  height: 590px;
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
