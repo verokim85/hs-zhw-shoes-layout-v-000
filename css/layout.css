@@ -33,6 +33,7 @@
 
 .col-1 {
   width: 32%;
+  clear: right;
 }
 
 .col-2 {
