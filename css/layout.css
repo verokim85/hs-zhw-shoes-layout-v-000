@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+[class*="col-"] {
+  margin-left: 2%;
+}
+
 .col-1 {
   width: 32%;
   margin: 2%;
