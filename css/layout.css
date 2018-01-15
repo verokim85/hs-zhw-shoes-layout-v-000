@@ -29,6 +29,7 @@ h2.milk_text {
 
 [class*="col-"] {
   margin-left: 2%;
+  float:left;
 }
 
 .first {
