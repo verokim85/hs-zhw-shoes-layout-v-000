@@ -49,7 +49,7 @@ h2.milk_text {
   margin: auto;
 }
 
-section .shadow.second {
+section .shadow .col-1 .second {
   height: 590px;
 }
 
