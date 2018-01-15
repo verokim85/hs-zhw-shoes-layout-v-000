@@ -26,6 +26,7 @@
 .col-1 {
   width: 33%;
   margin: 2%
+display: inline-block;
 }
 
 .col-2 {
